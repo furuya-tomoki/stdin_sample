@@ -45,3 +45,9 @@ count.times do
   # 名前指定
   puts "Hello #{name}"
 end
+
+seireki = Time.now.year
+# 今の年がわかる
+print "西暦は＃｛seireki｝は、"
+ heisei = seireki - 1988
+ puts "平成#{heisei}年です"
