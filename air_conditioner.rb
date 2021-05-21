@@ -24,8 +24,8 @@ elsif temperature_diff > 4 && temperature_diff < 10 then
 elsif temperature_diff > 10 then
   require_time = 60
    # 温度差が１０以上であるか
-   # 処理
 end
+
 
 case air_flow
 when 1 then
