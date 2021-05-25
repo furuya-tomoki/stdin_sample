@@ -1,7 +1,7 @@
 a = 1
-b = 3
-c = 7
-n = 0
+b = 0
+c = 5
+n = 6
 while n < 47
   d = a + b + c
   a = b
