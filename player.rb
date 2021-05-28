@@ -3,3 +3,4 @@ team_d = ["盗賊", "忍者", "商人"]
 team_e = ["スライム", "ドラゴン", "魔王"]
 teams = [team_c, team_d, team_e]
 p teams
+# ２次元配列
